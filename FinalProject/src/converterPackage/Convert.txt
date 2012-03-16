@@ -1,0 +1,6 @@
+javax.swing.JButton:.JavaButton(":").Click
+javax.swing.JRadioButtonMenuItem:.JavaMenu(":").Select
+javax.swing.JMenu:.JavaMenu(":")
+javax.swing.JMenuItem:.JavaMenu(":").Select
+javax.swing.JRadioButton:.JavaRadioButton(":").Set
+javax.swing.JToolBar:.JavaToolbar("JToolBar").Press ":"
